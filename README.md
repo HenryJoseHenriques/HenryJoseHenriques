@@ -1,6 +1,6 @@
 <!--https://www.youtube.com/watch?v=TsaLQAetPLU-->
 
-## Hi👋 I'm Henry and I'm a computer engineering student, currently studying data analysis.
+## Hi👋 I'm Henry and I'm a computer engineering student, currently studying Embedded Systems.
 
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryJoseHenriques&show_icons=true&theme=merko)
 
