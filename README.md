@@ -2,7 +2,7 @@
 
 ## Hi👋 I'm Henry and I'm a computer engineering student, currently studying Embedded Systems.
 
-![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryJoseHenriques&show_icons=true&theme=merko)
+<!--![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryJoseHenriques&show_icons=true&theme=merko)-->
 
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance-->
 
